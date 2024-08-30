@@ -1,9 +1,7 @@
 # my-message
 Messaging web application for Code Me World LLC job hiring exam.
 # research
-For the techstack I've chosen Next.js for frontend because it has fullstack capabilities and for backend I've chosen firebase and firestore. <br />
-The reason why firestore and firebase were chosen over express.js and mongodb is because by default firestore has **realtime** DB capabilities which is reqiured for messaging apps. <br />
-Since this project is relatively small and is done by me alone having dedicated backend file and connecting them over graphql adds unnecessary complexity and Next.js's fullstack capabilities can be used instead.
+For the tech stack, I've chosen Next.js for the frontend because it has full-stack capabilities, and for the backend, I've chosen Firebase and Firestore. The reason for choosing Firestore and Firebase over Express.js and MongoDB is that Firestore provides real-time database capabilities by default, which is essential for messaging apps. Since this project is relatively small and developed by me alone, having a dedicated backend and connecting it over GraphQL adds unnecessary complexity. Instead, Next.js's full-stack capabilities can be utilized.
 # testing
 In order to test this application first clone the repository <br />
 -git clone https://github.com/Belgudei655/my-message.git <br />
